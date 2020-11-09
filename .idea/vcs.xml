@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/BubbleSort" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CheckPassword" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Circle_Cylinder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Colorable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DemicalBinary" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Fan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FutureValueCalculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/InsertionSort" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyList" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Point2D_Point3D" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Point_MoveablePoint" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Queue" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RegexPractice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Resizeable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Reverse_Array" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SelectionSort" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Shape" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StopWatch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Triangle_Class" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/VadidateClassRegex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/VadidatePhoneNumberRegex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ValidateAccountRegex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ValidateEmailRegex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/array_aggregation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bathople" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/delete" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dskhachhang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/figure" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inheritance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/layout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lexicon_php" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/locDSKH" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/login" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/maxximum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/minximum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/money" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nprime" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/numbertoletters" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/prime" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/product" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sever_time" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stack" vcs="Git" />
+  </component>
+</project>

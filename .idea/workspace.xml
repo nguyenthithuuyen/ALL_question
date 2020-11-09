@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0298471-4e91-492a-8792-4fa231a34fc8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/array_aggregation/info.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figure/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figure/.idea/figure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figure/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figure/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figure/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BubbleSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BubbleSort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckPassword/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CheckPassword/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Circle_Cylinder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Circle_Cylinder/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Colorable/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Colorable/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DemicalBinary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DemicalBinary/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fan/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Fan/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FutureValueCalculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FutureValueCalculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsertionSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/InsertionSort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Point2D_Point3D/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Point2D_Point3D/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Point_MoveablePoint/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Point_MoveablePoint/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Queue/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegexPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RegexPractice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resizeable/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Resizeable/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SelectionSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SelectionSort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shape/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Shape/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StopWatch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/StopWatch/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle_Class/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Triangle_Class/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VadidateClassRegex/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/VadidateClassRegex/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VadidatePhoneNumberRegex/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/VadidatePhoneNumberRegex/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ValidateAccountRegex/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ValidateAccountRegex/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ValidateEmailRegex/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ValidateEmailRegex/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array_aggregation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/array_aggregation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bathople/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bathople/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delete/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/delete/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delete/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/delete/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dskhachhang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dskhachhang/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/layout/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lexicon_php/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lexicon_php/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locDSKH/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/locDSKH/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/login/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maxximum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/maxximum/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/minximum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/minximum/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/money/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/money/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numbertoletters/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/numbertoletters/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stack/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/phpmyadmin/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/array_aggregation" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/williamdes/mariadb-mysql-kbs" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpmyadmin/twig-i18n-extension" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpmyadmin/motranslator" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpmyadmin/sql-parser" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpmyadmin/shapefile" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/paragonie/constant_time_encoding" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/dasprid/enum" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/composer" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/tecnickcom/tcpdf" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/pragmarx/google2fa" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/pragmarx/google2fa-qrcode" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/samyoul/u2f-php-server" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/google/recaptcha" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/polyfill-util" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1ilosscBX4iWNVhy49z7yJpXGB0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="settings.editor.splitter.proportion" value="0.2487757" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0298471-4e91-492a-8792-4fa231a34fc8" name="Default Changelist" comment="" />
+      <created>1602491748882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602491748882</updated>
+      <workItem from="1602491749968" duration="1370000" />
+      <workItem from="1602493132564" duration="46000" />
+      <workItem from="1604285256182" duration="1322000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1054" y="313" width="424" height="491" key="FileChooserDialogImpl" timestamp="1604285338489">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="1054" y="313" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1604285338489" />
+    <state x="724" y="406" width="386" height="568" key="NewPhpClassDialog" timestamp="1602492747152">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="724" y="406" width="386" height="568" key="NewPhpClassDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1602492747152" />
+    <state x="394" y="477" width="399" height="156" key="NewPhpFileDialog" timestamp="1604285269118">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="394" y="477" width="399" height="156" key="NewPhpFileDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1604285269118" />
+    <state x="72" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1604285387690">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="72" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1604285387690" />
+    <state x="1370" y="531" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1602492832710">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="1370" y="531" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1602492832710" />
+  </component>
+</project>
